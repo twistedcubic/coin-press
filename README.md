@@ -1,7 +1,6 @@
-
-
 # CoinPress: Practical Private Mean and Covariance Estimation
-A Python implementation of [CoinPress: Practical Private Mean and Covariance Estimation].
+A Python implementation of [CoinPress: Practical Private Mean and Covariance Estimation](https://arxiv.org/abs/2006.06618).
+CoinPress stands for COnfidence-INterval-based PRivate EStimation Strategy.
 
 Instructions
 ===
@@ -26,5 +25,5 @@ To run the map of Europe experiments (included our covariance experiments notebo
 
 Reference
 ===
-This repository is an implementation of our paper [CoinPress: Practical Private Mean and Covariance Estimation], authored by [Sourav Biswas](https://sravb.github.io/), [Yihe Dong](https://yihedong.me/), [Gautam Kamath](http://www.gautamkamath.com/), [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/).
+This repository is an implementation of our paper [CoinPress: Practical Private Mean and Covariance Estimation](https://arxiv.org/abs/2006.06618), authored by [Sourav Biswas](https://sravb.github.io/), [Yihe Dong](https://yihedong.me/), [Gautam Kamath](http://www.gautamkamath.com/), [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/).
 Code contributed by all four authors. 
