@@ -27,3 +27,13 @@ Reference
 ===
 This repository is an implementation of our paper [CoinPress: Practical Private Mean and Covariance Estimation](https://arxiv.org/abs/2006.06618), authored by [Sourav Biswas](https://sravb.github.io/), [Yihe Dong](https://yihedong.me/), [Gautam Kamath](http://www.gautamkamath.com/), [Jonathan Ullman](http://www.ccs.neu.edu/home/jullman/).
 Code contributed by all four authors. 
+
+If you use our code or paper, we ask that you please cite:
+```
+@article{BiswasDKU20,
+  title         = {CoinPress: Practical Private Mean and Covariance Estimation},
+  author        = {Biswas, Sourav and Dong, Yihe and Kamath, Gautam and Ullman, Jonathan},
+  journal       = {arXiv preprint arXiv:2006.06618},
+  year          = {2020}
+}
+```
