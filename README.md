@@ -1,6 +1,6 @@
 # CoinPress: Practical Private Mean and Covariance Estimation
 A Python implementation of [CoinPress: Practical Private Mean and Covariance Estimation](https://arxiv.org/abs/2006.06618).
-CoinPress stands for COnfidence-INterval-based PRivate EStimation Strategy.
+CoinPress stands for COnfidence-INterval-based PRivate EStimation Strategy. Published at [NeurIPS 2020](https://neurips.cc/Conferences/2020).
 
 Instructions
 ===
@@ -30,10 +30,12 @@ Code contributed by all four authors.
 
 If you use our code or paper, we ask that you please cite:
 ```
-@article{BiswasDKU20,
+@incollection{BiswasDKU20,
   title         = {CoinPress: Practical Private Mean and Covariance Estimation},
   author        = {Biswas, Sourav and Dong, Yihe and Kamath, Gautam and Ullman, Jonathan},
-  journal       = {arXiv preprint arXiv:2006.06618},
+  booktitle = {Advances in Neural Information Processing Systems 33},
+  url       = {arXiv preprint arXiv:2006.06618},
   year          = {2020}
 }
 ```
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Logo_for_Conference_on_Neural_Information_Processing_Systems.svg/1200px-Logo_for_Conference_on_Neural_Information_Processing_Systems.svg.png" width=200>
